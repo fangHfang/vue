@@ -12,7 +12,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^2.6.4",
     "better-scroll": "^1.11.1",
     "body-parser": "^1.18.3",
     "path": "^0.12.7",
